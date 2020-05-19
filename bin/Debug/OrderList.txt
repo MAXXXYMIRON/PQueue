@@ -1,0 +1,17 @@
+Должность		Номер	Время
+
+    Worker       102   30
+    Worker       107   30
+    Worker       109   50
+Supervisor       101   20
+Supervisor       104   50
+Supervisor       108   40
+   Manager       100   10
+   Manager       103   40
+   Manager       105   10
+   Manager       106   20
+
+
+Manager       80
+Worker        110
+Supervisor    110
